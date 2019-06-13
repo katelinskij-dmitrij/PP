@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  MatrixHandler.cpp
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(45,41): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(51,14): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(80,33): warning C4244:  *=: преобразование "_Ty" в "int", возможна потеря данных
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(80,33): warning C4244:         with
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(80,33): warning C4244:         [
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(80,33): warning C4244:             _Ty=double
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(80,33): warning C4244:         ]
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(91,37): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(97,33): warning C4244:  *=: преобразование "_Ty" в "int", возможна потеря данных
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(97,33): warning C4244:         with
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(97,33): warning C4244:         [
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(97,33): warning C4244:             _Ty=double
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(97,33): warning C4244:         ]
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(101,33): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab1.cpp
+D:\GitHub\PP\lw1\lab1\MatrixHandler.cpp(113,41): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+D:\GitHub\PP\lw1\lab1\lab1.cpp(47,9): warning C4101:  number: неиспользованная локальная переменная
+  lab1.vcxproj -> D:\GitHub\PP\lw1\x64\Debug\lab1.exe

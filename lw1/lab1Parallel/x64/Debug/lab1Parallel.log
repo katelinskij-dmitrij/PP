@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  lab1Parallel.cpp
+  MatrixHandlerParallel.cpp
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(48,41): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(54,67): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(67,65): warning C4267:  аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(75,44): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(78,13): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(79,97): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(106,33): warning C4244:  *=: преобразование "_Ty" в "int", возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(106,33): warning C4244:         with
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(106,33): warning C4244:         [
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(106,33): warning C4244:             _Ty=double
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(106,33): warning C4244:         ]
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(117,37): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(123,33): warning C4244:  *=: преобразование "_Ty" в "int", возможна потеря данных
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(123,33): warning C4244:         with
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(123,33): warning C4244:         [
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(123,33): warning C4244:             _Ty=double
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(123,33): warning C4244:         ]
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(127,33): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+D:\GitHub\PP\lw1\lab1Parallel\MatrixHandlerParallel.cpp(139,36): warning C4267:  инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab1Parallel.vcxproj -> D:\GitHub\PP\lw1\x64\Debug\lab1Parallel.exe
